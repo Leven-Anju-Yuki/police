@@ -81,3 +81,6 @@ src: url(./Vina_Sans/VinaSans-Regular.ttf);}
 }
 
 img{width: 10%;}
+@media screen and (max-width: 1024px) {
+  img{width: 60%;}
+}
