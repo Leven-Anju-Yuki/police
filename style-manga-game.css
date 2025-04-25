@@ -1,0 +1,56 @@
+h2 {
+    text-transform: capitalize;
+    color: red;
+}
+@font-face {
+  font-family: beast;
+  src: url(assets/font/manga-game/beast-tamer/sono/Sono-VariableFont_MONOwght.ttf);
+}
+.beasttamer {
+  font-family: "beast", sans-serif;
+}
+@font-face {
+    font-family: hero;
+    src: url(assets/font/manga-game/hero-bouclier/Noto_Serif_JP/NotoSerifJP-Medium.otf);
+}
+.hero {
+    font-family: "hero", serif;
+}
+
+@font-face {
+    font-family: apothicaire;
+    src: url(assets/font/manga-game/apothicaire/);
+}
+.apothicaire {
+    font-family: "apothicaire", serif;
+}
+@font-face {
+  font-family: tokyo;
+  src: url(assets/font/manga-game/tokyo-ghoul/rubik/static/Rubik-Bold.ttf);
+}
+.tokyoghoul {
+  font-family: "tokyo", serif;
+}
+
+@font-face {
+    font-family: BOFURI;
+    src: url(assets/font/manga-game/bofuri/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+.bofuri {
+    font-family: "BOFURI", serif;
+}
+@font-face {
+    font-family: strike;
+    src: url(assets/font/manga-game/strike-the-blood/playfair-Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+.strike {
+    font-family: "strike", serif;
+}
+img {
+    width: 50%;
+}
+/* @media screen and (max-width: 1024px) {
+  img {
+    width: 100%;
+  }
+} */

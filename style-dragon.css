@@ -1,0 +1,93 @@
+h2 {
+  text-transform: capitalize;
+  color: red;
+}
+
+@font-face {
+  font-family: exo;
+  src: url(./font/dragon/Exo_2/Exo2-VariableFont_wght.ttf);
+}
+.exo {
+  font-family: "exo", "serif";
+}
+
+@font-face {
+  font-family: libre;
+  src: url(./font/dragon/Libre_Baskerville/LibreBaskerville-Regular.ttf);
+}
+.libre {
+  font-family: "libre", "serif";
+}
+
+@font-face {
+  font-family: merriwatther;
+  src: url(./font/dragon/Merriweather/Merriweather-Regular.ttf);
+}
+.merriwatther {
+  font-family: "merriwatther", "serif";
+}
+@font-face {
+  font-family: Noto;
+  src: url(./font/dragon/Noto_Serif_Balinese/NotoSerifBalinese-Regular.ttf);
+}
+.Noto {
+  font-family: "Noto", "serif";
+}
+@font-face {
+  font-family: playfair;
+  src: url(./font/dragon/playfair-Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+.playfair {
+  font-family: "playfair", "serif";
+}
+@font-face {
+  font-family: pt;
+  src: url(./font/dragon/pt-serif/PTSerif-Regular.ttf);
+}
+.pt {
+  font-family: "pt", "serif";
+}
+@font-face {
+  font-family: raleway;
+  src: url(./font/dragon/Raleway/Raleway-VariableFont_wght.ttf);
+}
+.raleway {
+  font-family: "raleway", "serif";
+}
+@font-face {
+  font-family: smooch;
+  src: url(./font/dragon/Smooch_Sans/SmoochSans-VariableFont_wght.ttf);
+}
+.smooch {
+  font-family: "smooch", "serif";
+}
+@font-face {
+  font-family: space;
+  src: url(font/dragon/Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf);
+}
+.space {
+  font-family: "space", "serif";
+}
+@font-face {
+  font-family: teko;
+  src: url(./font/dragon/Teko/Teko-VariableFont_wght.ttf);
+}
+.teko {
+  font-family: "teko", "serif";
+}
+@font-face {
+  font-family: Vina;
+  src: url(./font/dragon/Vina_Sans/VinaSans-Regular.ttf);
+}
+.Vina {
+  font-family: "Vina", "serif";
+}
+
+img {
+  width: 50%;
+}
+/* @media screen and (max-width: 1024px) {
+  img {
+    width: 100%;
+  }
+} */
